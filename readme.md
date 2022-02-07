@@ -1,6 +1,6 @@
-Bed Tracker
+#Bed Tracker
 
-An online platform to get realtime update of availability of beds in hospitals and covid care centres around you.
+##An online platform to get realtime update of availability of beds in hospitals and covid care centres around you.
 
 Supports following features:
 1. Get real-time data of bed availability across multiple hospitals.
@@ -13,11 +13,11 @@ Backend : Node.js.
 Frontend: React.js.
 
 Prerequisites:
-1.react
-2.Node npm
-3.MySQL
+1. React
+2. Node npm
+3. MySQL
 
 Starting the project:
-From Frontend diretory:npm start
+From Frontend diretory: npm start
 From Backend directory: node server.js
 
