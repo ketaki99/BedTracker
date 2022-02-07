@@ -1,6 +1,6 @@
-#Bed Tracker
+Bed Tracker
 
-##An online platform to get realtime update of availability of beds in hospitals and covid care centres around you.
+An online platform to get realtime update of availability of beds in hospitals and covid care centres around you.
 
 Supports following features:
 1. Get real-time data of bed availability across multiple hospitals.
